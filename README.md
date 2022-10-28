@@ -1,11 +1,11 @@
 # My Portal
 ## Description
 :writing_hand: I am in the design stage of this project. 
-This portal allows you to easyly acces to my content in just one place. In just one menu you can scrowll to my recent YouTube videos, YouTube Shorts, acces writen articles and listening to my Podcast. 
-It will give acces to photo library. You will also be able to live coment and iniciate a chat with me. 
+This portal allows you to easily access my media content in just one place. In just one menu, you can scroll to my recent YouTube videos, YouTube Shorts. Access written articles and listen to my Podcast. 
+It will give access to a photo library. You will also be able to leave comments and chat with me. 
 
 ## Motivation
-:writing_hand: I recently started a YouTube channel. Many of my folowers have limited internet conection what makes difficul to navegate the diferent social media platforms like YouTube, Instagram, Facebook, even my webpage. So, I though having a portal that held all the information will be an easy and faster way to acces to all my content.  
+:writing_hand: I recently started a YouTube channel. Many of my followers have limited internet connection which makes it difficult to navigate the different social media platforms like YouTube, Instagram, Facebook, even my webpage. So, I thought that having a portal with all the information will be an easier and faster way to access all my content.  
 
 ## Built With
 :writing_hand: - HTML - CSS - Javascript
