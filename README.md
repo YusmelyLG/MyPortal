@@ -8,6 +8,6 @@ It will give access to a photo library. You will also be able to leave comments 
 :writing_hand: I recently started a YouTube channel. Many of my followers have limited internet connection which makes it difficult to navigate the different social media platforms like YouTube, Instagram, Facebook, even my webpage. So, I thought that having a portal with all the information will be an easier and faster way to access all my content.  
 
 ## Built With
-:writing_hand: - HTML - CSS - Javascript
+:writing_hand: - HTML - CSS - JavaScript
 ## Demo Site
 ## Screenshot
