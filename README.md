@@ -1,4 +1,4 @@
-# My Portal
+# YLG Portal
 ## Description
 :writing_hand: I am in the design stage of this project. 
 This portal allows you to easily access my media content in just one place. In just one menu, you can scroll to my recent YouTube videos, YouTube Shorts. Access written articles and listen to my Podcast. 
