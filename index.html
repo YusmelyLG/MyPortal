@@ -23,7 +23,7 @@ nav a{
   display: block;
   height: 3px;
   width: 50%;
-  font-color: #e73434;
+  color: #e73434;
   }
 /* Navegation section set-up */
   ul {
@@ -45,7 +45,9 @@ nav li{
 li {
   float: left;
 }
-
+nav div {
+  display: flex;
+ }
 .footer {
   background-color:rgb(145, 198, 245);
   margin-top: 70px;
@@ -94,6 +96,59 @@ h5{
   position: relative;
   text-align: center;
 }
+
+.main {
+  background-color:white;
+  margin-top: 30px;
+  width: 100%;
+  padding: 25px 15%;
+  color: #06172d;
+  display:flex;
+ }
+.main div{
+  text-align: center;
+}
+.col-2{
+  flex-grow: 1;
+}
+.main div h3{
+  font-weight:300;
+  margin-bottom: 20px;
+  margin-top: 40px;
+  margin-right: 50px;
+  margin-left: 40px;
+  letter-spacing: 1px;
+}
+.col-1 a{
+  display:block;
+  text-decoration:none;
+  color: #06172d;
+  margin-bottom: 10px;
+}
+button{
+  background: transparent;
+  border: 2px solid #06172d;
+  color: #06172d;
+  border-radius: 30px;
+  padding: 7px 25px;
+  font-size: 15px;
+  cursor: pointer;
+}
+h2{
+  position: relative;
+  text-align: center;
+}
+.main div p{
+  border: none;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  margin-right: 80px;
+  margin-left: 50px;
+  background-color: none; 
+  text-align: center;
+  font-size: 16px;
+  line-height: 1.6;
+}
 </style>
 </head>
 <body>
@@ -113,7 +168,8 @@ h5{
           </b>
         </ul>
     </nav>
-</div>   
+  </div>   
+
 <div style="clear:both">
 </div> 
 
@@ -123,59 +179,33 @@ h5{
   </banner>
 
 <!--Main-->
-<div class="meet">
+<div class="main">
   <div class="col-1">
-     <h3>MEET</h3>
-        <a href="#">Small bio</a>
-        <a href="#">Video Intro</a>
+     <img>
+     <h2>YLG Adventures</h2>
+        <div class="YouTube">
+          <p> YouTube channel dedicated to sharing adventures and travel experiences. It is a space to learn about NL: Canada's easternmost province: Newfoundland & Labrador.</p></div>
+        <br>
+          <button type="submit">VIDEOS</button>
   </div>
+     <!--Blog--> 
   <div class="col-2">
-     <img style="float:center" src="Img/Profile pic.png" alt="Profile picture" width="20%" height="100px"> 
+      <img>
+      <h2>La neta 🇨🇺</h2>
+         <p> True stories of Cuba. Memories of a childhood full of challenges and unique experiences.</p>
+         <br>
+          <button type="submit">ARTICLES</button>
   </div>  
-</div> 
-
-<div class="YouTube VIDEOS">
-  <div class="col-1">
-    <img style="float:center" src="Img/YLG YouTube Banner.png" alt="YouTube banner" width="50%" height="150px"> 
-  </div>
-  <div class="col-2">
-    <h3>YouTube VIDEOS</h3>
-      <a href="#">Channel Description</a>
-  </div> 
+     <!--Podcast--> 
   <div class="col-3">
-    <a href="#">RECENT VIDEOS</a>
+      <img>
+      <h2>Podcast</h2>
+         <p>Journey into the unknown. The challenges of adapting to a new culture.</p>
+         <br>
+          <button type="submit">AUDIOS</button>
   </div>
-</div> 
-
-<div class="blog">
-  <div class="col-1">
-        <a href="#">LATEST ARTICLES</a>
-  </div>
-  <div class="col-2">
-    <!--Photo/logo la neta Cuba-->
-  </div>
-  <div class="col-3">
-    <h3>BLOG</h3>
-        <a href="#">Blog Description</a>
-  </div>
-</div> 
-
-<div class="podcast">
-  <div class="col-1">
-        <a href="#">AUDIOS</a>
-  </div>
-  <div class="col-2">
-    <h3>PODCAST</h3>
-        <a href="#">Podcast Description</a>
-  </div>
-  <div class="col-3">
-    <!--Photo podcasting-->
-  </div>
-</div> 
-
-
-<!--Connect with me section-->  
-  <a href = "mailto: yusmelylg@gmail.com">yusmelylg@gmail.com</a>
+  
+</div>
 
 <!--Footer-->
 <div class="footer">
@@ -217,5 +247,5 @@ h5{
  </div>
 
 </body>
-<script src=".portal.js"></scrip>
+<script src=".portal.js"></script>
 </html>
