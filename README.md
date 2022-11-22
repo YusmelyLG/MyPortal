@@ -1,6 +1,7 @@
 # YLG Portal
 ## Description
 
+![Diseño](https://user-images.githubusercontent.com/115137407/203375540-884f3588-25a5-411a-a5d2-67ef3151a246.jpg)
 ![Sketch](https://user-images.githubusercontent.com/115137407/201474482-9f9a1594-7959-452e-94ab-aa8e3d2c765a.jpg)
 
 :writing_hand: I am in the design stage of this project. 
